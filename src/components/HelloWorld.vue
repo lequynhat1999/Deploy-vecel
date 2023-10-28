@@ -1,8 +1,6 @@
 <template>
   <div>
-    <slot name="header" message="hello"></slot>
-    <slot age="18"></slot>
-    <slot name="footer"></slot>
+    <slot></slot>
   </div>
 </template>
 

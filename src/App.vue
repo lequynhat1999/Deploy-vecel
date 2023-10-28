@@ -1,14 +1,6 @@
 <template>
   <HelloWorld>
-    <template #header>
-      <div>lqnhat header</div>
-    </template>
-    <template>
-      <h1>Yêu em Trang meo</h1>
-    </template>
-    <template #footer>
-      <div>lqnhat footer commit</div>
-    </template>
+    <h1>Yêu em Trang meo</h1>
   </HelloWorld>
 </template>
 
