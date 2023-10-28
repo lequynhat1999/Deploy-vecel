@@ -4,7 +4,7 @@
       <div>lqnhat header</div>
     </template>
     <template #default="{age}">
-      lqnhat not override {{ age }}
+      <h1>Yêu em Trang meo</h1>
     </template>
     <template #footer>
       <div>lqnhat footer commit</div>
