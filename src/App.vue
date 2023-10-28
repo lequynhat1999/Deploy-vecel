@@ -7,7 +7,7 @@
       lqnhat not override {{ age }}
     </template>
     <template #footer>
-      <div>lqnhat footer</div>
+      <div>lqnhat footer commit</div>
     </template>
   </HelloWorld>
 </template>
